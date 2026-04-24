@@ -1,8 +1,11 @@
 # CS 330 Portfolio – Final Project
-David Silva
-Southern New Hampshire University
 
-Journal Reflection
+**David Silva**  
+Southern New Hampshire University  
+
+This project showcases my final 3D scene created using OpenGL, including object modeling, lighting, textures, and camera controls.
+
+## Journal Reflection
 
 Throughout this course, my approach to designing software has improved a lot. At the beginning, I mostly focused on just getting things to work, but during this project I learned how important planning and structure are. When building my 3D scene, I had to think about how objects would be created using basic shapes and then transformed using scaling, rotation, and positioning. One of the biggest design skills I developed was breaking down complex objects, like the barrel and chest, into smaller parts and building them step by step. I followed a process of testing each piece, adjusting it, and then combining it into the final object. This approach helped me stay organized and made debugging easier. In the future, I can apply this same strategy to other projects by planning first, building in small steps, and testing as I go.
 
